@@ -1,0 +1,16 @@
+{
+  "ther2": {
+    "height": 1536,
+    "pixelRatio": 3,
+    "width": 1536,
+    "x": 0,
+    "y": 0
+  },
+  "thermometer": {
+    "height": 1536,
+    "pixelRatio": 3,
+    "width": 1536,
+    "x": 1536,
+    "y": 0
+  }
+}
